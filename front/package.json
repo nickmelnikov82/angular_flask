@@ -117,7 +117,7 @@
     "inline-manifest-webpack-plugin": "^3.0.1",
     "istanbul-instrumenter-loader": "2.0.0",
     "jasmine-core": "^2.5.2",
-    "karma": "^1.6.0",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
     "karma-jasmine": "^1.1.0",
@@ -150,7 +150,7 @@
     "url-loader": "^0.5.8",
     "webpack": "~2.6.1",
     "webpack-dev-middleware": "^1.10.1",
-    "webpack-dev-server": "~2.4.2",
+    "webpack-dev-server": "~2.11.5",
     "webpack-dll-bundles-plugin": "^1.0.0-beta.5",
     "webpack-merge": "~4.1.0"
   },
